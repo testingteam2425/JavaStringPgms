@@ -13,6 +13,9 @@ public class StringNumeric {
 				s2=s2+c;
 
 			}
+			
+			
+			
 
 		}
 
