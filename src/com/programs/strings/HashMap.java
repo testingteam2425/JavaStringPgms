@@ -3,7 +3,7 @@ package com.programs.strings;
 public class HashMap {
 	public static void main(String[] args) 
 	{
-		java.util.HashMap<String,Integer>h1=new java.util.HashMap<>();
+		java.util.HashMap<String,Integer>h1=new java.util.HashMap<String, Integer>();
 		h1.put("gandhi",1234);
 		h1.put("konda",678);
 		h1.put("gopi",9099);
