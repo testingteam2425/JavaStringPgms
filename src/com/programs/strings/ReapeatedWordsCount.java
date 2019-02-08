@@ -20,6 +20,8 @@ public class ReapeatedWordsCount
 					wrc=wrc+1;				
 					words[j]="0";			
 				}
+				
+				
 			}
 			
 			
