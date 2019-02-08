@@ -21,6 +21,8 @@ public class ReapeatedWordsCount
 					words[j]="0";			
 				}
 			}
+			
+			
 			if(words[i]!="0")
 				System.out.println(words[i]+"--"+wrc);
 			wrc=1;
